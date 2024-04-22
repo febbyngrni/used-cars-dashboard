@@ -1,0 +1,26 @@
+user_id,kota_id,first_name,last_name,phone,rating
+1,6472,Umay,Simbolon,+62 (0966) 273-7188,3.78
+2,3171,Genta,Kuswandari,+62-0148-102-3169,2.16
+3,3171,Paris,Mangunsong,+62 (082) 123 4652,3.62
+4,6472,Jatmiko,Samosir,+62 (649) 351-2084,3.07
+5,3573,Icha,Saptono,0834808067,4.41
+6,3573,Asman,Wijaya,+62-0469-362-0626,3.76
+7,5171,Zalindra,Yulianti,+62-075-044-0522,2.66
+8,3578,Jumadi,Tampubolon,+62 (51) 179 7694,4.14
+9,1371,Vero,Salahudin,+62 (040) 199-0342,3.85
+10,3171,Umar,Prayoga,+62 (003) 971 6198,3.71
+11,3175,Ami,Farida,+62 (760) 421-1363,2.74
+12,3578,Nardi,Kusumo,+62 (51) 590 0828,4.55
+13,5171,Ulva,Usada,+62 (344) 063 8941,3.14
+14,6471,Pranawa,Farida,0878543079,1.46
+15,7371,Harimurti,Pudjiastuti,(0427) 947-9392,3.88
+16,3171,Imam,Prastuti,+62 (093) 492-3178,4.71
+17,7371,Paiman,Utami,+62 (361) 209-9410,1.48
+18,3573,Bancar,Hastuti,+62-108-907-6753,1.72
+19,1375,Teguh,Megantara,(050) 927-4746,3.6
+20,3578,Mariadi,Purnawati,(040) 161-6687,1.56
+21,3174,Jaeman,Prasasta,(0327) 279-6472,3.03
+22,1375,Ihsan,Simbolon,+62 (091) 817 0959,3.33
+23,1375,Maryadi,Maryati,(011) 806-7722,2.39
+24,3171,Najam,Yulianti,0855560166,1.43
+25,5171,Clara,Nashiruddin,+62-0251-549-6737,4.34
